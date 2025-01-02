@@ -2,7 +2,6 @@
 
 <b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
 
-<u>Resources:</u>
 
 <b>Graphics:</b>
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)
