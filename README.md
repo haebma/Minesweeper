@@ -1,8 +1,8 @@
-<b><u>A Minesweeper Game</u</b>
+<b><u>A Minesweeper Game</u></b>
 
 <b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
 
-<b>Resources:</b>
+<b><u>Resources:</u></b>
 
 <b>Graphics:</b>
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)
