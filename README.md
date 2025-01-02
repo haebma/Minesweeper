@@ -1,4 +1,4 @@
-A Minesweeper Game
+<b>A Minesweeper Game</b>
 
 Note: To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
 
