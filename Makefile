@@ -9,5 +9,5 @@ all: minesweeper
 clean:
 	rm -f minesweeper
 
-minesweeper: main.cpp
+minesweeper: minesweeper.cpp
 	$(CC) $(CFLAGS) $^ -o $@ $(SMFL_FLAGS)
