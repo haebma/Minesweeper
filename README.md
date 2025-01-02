@@ -1,10 +1,10 @@
-<b>A Minesweeper Game</b>
+<b><u>A Minesweeper Game</u</b>
 
-Note: To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
+<b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
 
-Resources:
+<b>Resources:</b>
 
-Graphics:
+<b>Graphics:</b>
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)
 "red-flag.png" by FlatIcon (https://www.flaticon.com/free-icons/red-flag)
 "nuclear-bomb.png" by FlatIcon (https://www.flaticon.com/free-icons/nuclear-bomb)
@@ -35,12 +35,12 @@ Graphics:
 "apple.png" by FlatIcon (https://www.flaticon.com/free-icons/trash)
 "compost.png" by FlatIcon (https://www.flaticon.com/free-icons/compost)
 
-Audio:
+<b>Audio:</b>
 "shovel.ogg" from https://opengameart.org/content/shovel-sound
 "explosion.flac" from https://opengameart.org/content/rockbreaking
 "rhythm-garden.ogg" from https://opengameart.org/content/rhythm-garden
 "pop.ogg" from https://opengameart.org/content/bubbles-pop
 "laidback.ogg" from https://opengameart.org/content/the-war-over-a-melon-field-themes-and-jingles Composer: Spring, Bicycle horn sound by AntumDeluge
 
-Font:
+<b>Font:</b>
 "Press Start 2P" lizenziert unter der [SIL Open Font License Version 1.1](https://openfontlicense.org)
