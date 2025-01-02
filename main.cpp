@@ -1,9 +1,7 @@
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
-#include <iostream>
-#include "logic.cpp"
-#include <chrono>
+#include <unordered_set>
 #include <thread>
 
 
@@ -53,7 +51,7 @@ int countAdjacentMines(const int row, const int col){
     return count;
 }
 
-/* Call at beginning. Places bombs on to the board and computes adjacent bombs for each tile*/
+/* Call at beginning. Places mines on to the board and computes adjacent mines for each tile*/
 void initializeBoard(std::vector<sf::Sprite> &objects){
     // generate random minePositions
     std::srand(std::time(nullptr)); // set seed with current time
@@ -103,10 +101,10 @@ void uncoverTiles(int row, int col){
     uncoveredTiles++;
 
     if (tile.value != 0)
-        // tile has adjacent bombs: reveal this tile only
+        // tile has adjacent mines: reveal this tile only
         return;
     
-    //no adjacent bombs: reveal every tile until surrounded by tiles with numbers >= 1
+    //no adjacent mines: reveal every tile until surrounded by tiles with numbers >= 1
     for (auto dir : directions){
         int newRow = row + dir.first;
         int newCol = col + dir.second;
