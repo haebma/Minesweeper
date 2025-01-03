@@ -3,16 +3,13 @@
 <b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first:
 
 <b>For Linux (Ubuntu/Debian):</b>  
-```bash
-sudo apt-get install libsfml-dev```
+`sudo apt-get install libsfml-dev`
 
 <b>For macOS:</b>  
-```bash
-brew install sfml```  
+`brew install sfml`
 
 <b>For Windows</b>
-```bash
-brew install sfml```
+`brew install sfml`
 
 <b>Graphics:</b>  
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)  
