@@ -8,8 +8,8 @@
 <b>For macOS:</b>  
 `brew install sfml`
 
-<b>For Windows</b>
-`brew install sfml`
+<b>For Windows:</b>  
+`vcpkg install sfml`  
 
 <b>Graphics:</b>  
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)  
