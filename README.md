@@ -4,7 +4,7 @@
 
 <b>Für Linux (Ubuntu/Debian):</b>  
 ```bash
-sudo apt-get install libsfml-dev``  
+sudo apt-get install libsfml-dev``
 
 <b>Für macOS:</b>  
 ```bash
