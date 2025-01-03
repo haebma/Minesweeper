@@ -1,6 +1,9 @@
 <b>A Minesweeper Game</b>
 
-<b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first
+<b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first:
+
+<b>Für Linux (Ubuntu/Debian):</b>
+`sudo apt-get install libsmfl-dev`
 
 
 <b>Graphics:</b>
