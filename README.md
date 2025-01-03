@@ -2,15 +2,15 @@
 
 <b>Note:</b> To play the game it might be necessary to download the C++ library SMFL (Simple and Fast Multimedia Library) first:
 
-<b>Für Linux (Ubuntu/Debian):</b>  
+<b>For Linux (Ubuntu/Debian):</b>  
 ```bash
-sudo apt-get install libsfml-dev``
+sudo apt-get install libsfml-dev```
 
-<b>Für macOS:</b>  
+<b>For macOS:</b>  
 ```bash
 brew install sfml```  
 
-<b>Für Windows</b>
+<b>For Windows</b>
 ```bash
 brew install sfml```
 
