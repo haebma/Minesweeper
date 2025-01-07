@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple implementation of the classic Pong game using Python and the Pygame library. The game features two paddles and a ball, and the objective is to get the ball past the opponent's paddle.
+This is a simple implementation of the classic Minesweeper game using C++ and the SFML library (Simple Fast Multimedia Library). I added some funky music and graphics to make playing a bit more enjoyable.
 
 ## Installation
 
@@ -15,14 +15,14 @@ This is a simple implementation of the classic Pong game using Python and the Py
     cd Minesweeper
     ```
 3. Install the required dependencies:  
-<b>For Linux (Ubuntu/Debian):</b>  
-`sudo apt-get install libsfml-dev`
+    <b>For Linux (Ubuntu/Debian):</b>  
+    `sudo apt-get install libsfml-dev`
 
-<b>For macOS:</b>  
-`brew install sfml`
+    <b>For macOS:</b>  
+    `brew install sfml`
 
-<b>For Windows:</b>  
-`vcpkg install sfml` 
+    <b>For Windows:</b>  
+    `vcpkg install sfml` 
 
 4. Build the game:
     ```bash
