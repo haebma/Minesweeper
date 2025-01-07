@@ -45,6 +45,7 @@ This is a simple implementation of the classic Minesweeper game using C++ and th
 - Use the right mouse button to set a flag on a supposed mine field 
 - Use the right mouse button to set a flag on a supposed mine field 
 
+## Resources
 <b>Graphics:</b>  
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)  
 "red-flag.png" by FlatIcon (https://www.flaticon.com/free-icons/red-flag)  
