@@ -16,13 +16,19 @@ This is a simple implementation of the classic Minesweeper game using C++ and th
     ```
 3. Install the required dependencies:  
     <b>For Linux (Ubuntu/Debian):</b>  
-    `sudo apt-get install libsfml-dev`
+    ```bash
+    sudo apt-get install libsfml-dev
+    ```
 
     <b>For macOS:</b>  
-    `brew install sfml`
+    ```bash
+    brew install sfml
+    ```
 
     <b>For Windows:</b>  
-    `vcpkg install sfml` 
+    ```bash
+    vcpkg install sfml
+    ```
 
 4. Build the game:
     ```bash
@@ -36,17 +42,7 @@ This is a simple implementation of the classic Minesweeper game using C++ and th
 ## How to Play
 
 - Use the left mouse button to uncover tiles
-- Use the right mouse button to set a flag on a supposed mine field
-
-
-<b>For Linux (Ubuntu/Debian):</b>  
-`sudo apt-get install libsfml-dev`
-
-<b>For macOS:</b>  
-`brew install sfml`
-
-<b>For Windows:</b>  
-`vcpkg install sfml`  
+- Use the right mouse button to set a flag on a supposed mine field 
 
 <b>Graphics:</b>  
 "tileset32x32px.png" by Ivan Voirol (https://opengameart.org/content/slates-32x32px-orthogonal-tileset-by-ivan-voirol)  
